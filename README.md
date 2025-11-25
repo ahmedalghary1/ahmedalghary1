@@ -70,8 +70,7 @@ Hello! I'm Ahmed, a passionate **Full‑Stack Developer** with strong experience
 ## 📞 Contact
 
 * **Email:** [ahmedalgohary1170@gmail.com](mailto:ahmedalgohary1170@gmail.com)
-* **GitHub:** *(add your GitHub link here)*
-* **LinkedIn:** *(add your LinkedIn link here)*
+* **LinkedIn:** *(www.linkedin.com/in/ahmed-algohary-124396396)*
 
 ---
 
