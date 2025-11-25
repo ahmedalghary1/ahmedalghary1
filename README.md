@@ -74,4 +74,3 @@ Hello! I'm Ahmed, a passionate **Full‑Stack Developer** with strong experience
 
 ---
 
-> This README can be further refined with badges, project sections, GitHub analytics, and visuals. Let me know if you'd like a fully styled GitHub‑optimized version.
