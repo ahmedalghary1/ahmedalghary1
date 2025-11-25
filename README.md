@@ -96,5 +96,6 @@ Hello! I'm Ahmed, a passionate **Full-Stack Developer** with strong experience i
 ![GitHub](https://img.shields.io/badge/GitHub-Ahmed-blue?style=for-the-badge\&logo=github)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed-blue?style=for-the-badge\&logo=linkedin)
 
-* **Email:** [ahmedalgohary1170@gmail.com](mailto:ahmedalgohary1170@gmail.com)
+* **Email:** [ahmedalghary1@gmail.com](mailto:ahmedalgohary1170@gmail.com)
+* **GitHub:** *(add your GitHub link here)*
 * **LinkedIn:** *(www.linkedin.com/in/ahmed-algohary-124396396)*
